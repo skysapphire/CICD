@@ -1,0 +1,10 @@
+# Exclude all AppData contents
+AppData/
+
+# Or more specifically, exclude only the problematic directories
+AppData/Local/Application Data/
+AppData/Local/ElevatedDiagnostics/
+AppData/Local/History/
+AppData/Local/Microsoft/Windows/INetCache/
+AppData/Local/Microsoft/Windows/Temporary Internet Files/
+AppData/Local/Temporary Internet Files/
